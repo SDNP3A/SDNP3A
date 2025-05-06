@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1>Olá, nós somos a SDNP&A! Somos um grupo de amigos que desenvolvem juntos!</h1>
+<br>
+<p>Desenvolvemos sites com Python e PHP! Mas támbem sabemos como criar aplicativos com C# e .NET_MAOI</p>
+
 
 <!--
 **SDNP3A/SDNP3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
